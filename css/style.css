@@ -38,10 +38,9 @@ body{
     background-color: skyblue;
 }
 .dog{
-    overflow: hidden;
     position : relative;
-    width : 50vw;
-    height : 50vw;
+    width : 50%;
+    height : 50%;
     margin : auto;
 }
 .bone{
